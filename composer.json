@@ -1,0 +1,24 @@
+{
+    "name": "limesoda/magento2-allowadminbackorder",
+    "description": "Allow backorders in adminhtml",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "name": "Thomas Negeli",
+            "email": "t.negeli@limesoda.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "magento/module-inventory-sales": "1.0.*"
+    },
+    "version": "1.0.0",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "LimeSoda\\AllowAdminBackorder\\": ""
+        }
+    }
+}
