@@ -2,6 +2,7 @@
     "name": "limesoda/magento2-allowadminbackorder",
     "description": "Allow backorders in adminhtml",
     "type": "magento2-module",
+    "license": "MIT",
     "authors": [
         {
             "name": "Thomas Negeli",
