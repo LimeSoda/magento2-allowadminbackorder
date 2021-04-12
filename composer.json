@@ -11,7 +11,7 @@
     ],
     "minimum-stability": "dev",
     "require": {
-        "magento/module-inventory-sales": "1.0.*"
+        "magento/module-inventory-sales": "^1.0.0"
     },
     "autoload": {
         "files": [
